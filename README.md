@@ -6,6 +6,7 @@
 
 ## Researcher & Engineer (Systems, Software & Computer Science)
 
+[![Founder](https://img.shields.io/badge/Vitality_AI-Founder-orange?style=for-the-badge&logo=github)](https://github.com/vitality-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/tejusc)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=S-4FouEAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Tejas-ChandraShekarRaju)
