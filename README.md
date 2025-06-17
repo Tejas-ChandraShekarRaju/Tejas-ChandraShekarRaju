@@ -4,7 +4,7 @@
 
 # Tejus Chandrashekar
 
-## Researcher & Engineer (Systems, Software & Computer Science)
+## Researcher & Engineer (Systems, Software, Computer Science & Tecnical UX)
 
 [![Founder](https://img.shields.io/badge/Vitality_AI-Founder-orange?style=for-the-badge&logo=github)](https://github.com/vitality-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/tejusc)
