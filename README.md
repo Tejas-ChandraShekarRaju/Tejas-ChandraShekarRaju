@@ -31,11 +31,11 @@ As the Founder of **[Vitality AI](https://github.com/vitality-ai)**, I'm leading
 - Storage disaggregated architectures (SDAs)
 - Resource-efficient data management at scale
 
-As the leader of this open-source project with 10+ contributors, I:
-- Create a friendly space where both new and experienced developers can contribute
-- Build clear docs and guides to help people get started quickly
-- Help junior devs learn systems programming through hands-on mentoring
-- Shape the project based on what the community actually needs
+As the leader of this open-source effort with 10+ contributors, I:
+- Create a welcoming space for both beginners and experienced devs
+- Mentor others and write clear docs to help people get hands-on with systems programming
+- In a world driven by AI, advocate for understanding the fundamentals
+- Build a community grounded in curiosity and learning from first principles
 - Keep everyone motivated by explaining why we're building what we're building
 
 ## Research Experience
