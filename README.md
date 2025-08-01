@@ -63,7 +63,6 @@ As the leader of this open-source effort with 10+ contributors, I:
 - **Product Engineer at Maybank, MBB Labs** (June 2020 - Feb 2023)
   - Developed React-based design system used by all development teams
   - Built document management service serving 3000+ branches in Malaysia
-  - Achieved 37% improvement in API performance through service refactoring
 
 ## Technical Skills
 
