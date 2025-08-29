@@ -1,4 +1,6 @@
-<div style="text-align: center;">
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/8838560?v=4" alt="Tejus Chandrashekar" width="200" height="200" style="border-radius:50%;">
 
 <h1>Tejus Chandrashekar</h1>
 <h2>Researcher & Engineer (Systems, Software, Computer Science & Developer UX)</h2>
