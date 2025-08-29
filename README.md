@@ -25,7 +25,7 @@ I specialize in the intersection of systems architecture, software engineering, 
 
 ## Current Work
 
-As the Founder of **[Vitality AI](https://github.com/vitality-ai)**, I'm leading the development of [CIAOS](https://github.com/vitality-ai/Storage-service), an open-source object storage service designed for:
+As the Founder of **[Vitality AI](https://github.com/vitality-ai)**, I'm leading the development of [WarpDrive](https://github.com/vitality-ai/Storage-service), an open-source object storage service designed for:
 
 - Modern analytical workloads requiring high throughput
 - Storage disaggregated architectures (SDAs)
