@@ -18,7 +18,7 @@
 I specialize in the intersection of systems architecture, software engineering, and performance optimization. My research explores:
 
 - **Storage Systems & Database Internals** - Building next-generation storage systems optimized for modern analytical workloads
-- **Distributed Computing** - Developing scalable frameworks for distributed data processing and federated learning
+- **Distributed Computing & Machine Learning** - Developing scalable frameworks for distributed data processing and federated learning
 - **Systems Performance** - Analyzing and optimizing performance bottlenecks in complex environments, including energy efficiency
 - **Software Engineering** - Designing robust architectures for large-scale systems infrastructure and worklows/processes for people. 
 
