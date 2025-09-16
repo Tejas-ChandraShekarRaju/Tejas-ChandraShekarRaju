@@ -95,6 +95,6 @@ Feel free to reach out via [LinkedIn](https://in.linkedin.com/in/tejusc) or emai
 
 <div align="center">
 
-*"The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it."* — Mark Weiser
+"There's something with me and the word beautiful, The Beautiful Mind, The Beautiful Life and Life is Beautiful, are all my favorite movies"
 
 </div>
