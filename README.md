@@ -44,10 +44,10 @@ As the leader of this open-source effort with 10+ contributors, I:
 
 ### Publications
 
-- **[Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources](https://doi.org/10.1016/j.jpdc.2022.04.003)** - Journal of Parallel and Distributed Computing, May 2025
+- **[Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources](https://www.sciencedirect.com/science/article/abs/pii/S074373152500070X)** - Journal of Parallel and Distributed Computing, May 2025
   *A framework that outperforms existing solutions for federated learning across heterogeneous computing environments*
 
-- **[Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators](https://2025.euro-par.org/)** - Euro-Par 2025 (To appear)
+- **[Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators](https://dl.acm.org/doi/10.1007/978-3-031-99854-6_18)** - Euro-Par 2025 (To appear)
   *FedJoule: An energy-efficient client selection strategy that jointly optimizes power and time on heterogeneous devices*
 
 ## Industry Experience
