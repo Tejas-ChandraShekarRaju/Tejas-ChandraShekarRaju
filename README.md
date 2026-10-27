@@ -18,22 +18,21 @@
 
 ## 📄 Publications
 
-Reviewer 2, if you're reading this: hi.*
-
-- **[WarpDrive: A Composable Storage Substrate for Disaggregated Data Systems](https://vldb.org/2026/Workshops/VLDB-Workshops-2026/CDMS/CDMS26_8.pdf)** · *VLDB 2026, CDMS Workshop* (vision paper, lightning talk)
-  Object storage shouldn't just hold bytes; it should help compute on them. Here's the case for making it a substrate for database computational pushdown.
+- **[WarpDrive: A Composable Storage Substrate for Disaggregated Data Systems](https://vldb.org/2026/Workshops/VLDB-Workshops-2026/CDMS/CDMS26_8.pdf)** · *VLDB 2026 CDMS Workshop* (vision paper, lightning talk)
+  Object storage as a substrate for database computational pushdown.
 
 - **[Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources](https://www.sciencedirect.com/science/article/abs/pii/S074373152500070X)** · *Journal of Parallel and Distributed Computing (JPDC), 2025*
-  Federated learning that keeps going when the devices don't all match, or don't all show up.
+  Co-authored at IISc with Prof. Yogesh Simmhan.
 
 - **[Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators](https://dl.acm.org/doi/10.1007/978-3-031-99854-6_18)** · *Euro-Par 2025*
-  FedJoule: picking clients so training finishes on time without blowing the energy budget.
+  FedJoule. Co-authored at IISc with Prof. Yogesh Simmhan.
 
-- **[Eventual Verification: Deterministic Fast Forward Progress](https://github.com/niova/niova-raft/issues/24)** · *ICDCN 2027* (under review)
-  Verifying a distributed storage control plane without making it wait: correctness that catches up, deterministically.
+**Under review**
 
-- **WarpDrive follow-up** · *HiPC 2026* (under review)
-  The vision, now with numbers.
+- **[Eventual Verification: Deterministic Fast Forward Progress](https://github.com/niova/niova-raft/issues/24)** · *ICDCN 2027*
+  Making a distributed block storage control plane verifiable, built on niova-raft.
+
+- **WarpDrive follow-up paper** · *HiPC 2026*
 
 ## 🔭 What I want to work on
 
