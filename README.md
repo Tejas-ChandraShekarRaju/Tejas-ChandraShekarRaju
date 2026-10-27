@@ -18,7 +18,7 @@
 
 ## 📄 Publications
 
-*Peer-reviewed and under review. Reviewer 2, if you're reading this: hi.*
+Reviewer 2, if you're reading this: hi.*
 
 - **[WarpDrive: A Composable Storage Substrate for Disaggregated Data Systems](https://vldb.org/2026/Workshops/VLDB-Workshops-2026/CDMS/CDMS26_8.pdf)** · *VLDB 2026, CDMS Workshop* (vision paper, lightning talk)
   Object storage shouldn't just hold bytes; it should help compute on them. Here's the case for making it a substrate for database computational pushdown.
